@@ -37,7 +37,7 @@ namespace ControleClientes
             }
             else if(var_tipo == "j")
             {
-                // Pessoa jurídica
+                // --- Pessoa jurídica ----
                 Pessoa_juridica pj = new Pessoa_juridica();
                 pj.nome = var_nome;
                 pj.endereco = var_endereco;
@@ -56,9 +56,7 @@ namespace ControleClientes
                 Console.WriteLine("Valor de Compra: " + pj.valor.ToString("C"));
                 Console.WriteLine("Imposto .......: " + pj.valor_imposto.ToString("C"));
                 Console.WriteLine("Total a Pagar  : " + pj.total.ToString("C"));
-
-
-
+                
             }
 
         }
