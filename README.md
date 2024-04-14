@@ -28,4 +28,3 @@ Clone o projeto com o comando abaixo:
 - [ ] B
 - [ ] C
 ---
----
