@@ -58,7 +58,6 @@ namespace ControleClientes
                 Console.WriteLine("Total a Pagar  : " + pj.total.ToString("C"));
                 
             }
-
         }
     }
 }
