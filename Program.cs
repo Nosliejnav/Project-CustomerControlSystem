@@ -51,7 +51,7 @@ namespace ControleClientes
                 Console.WriteLine("-------- Pesssoa Jurídica ---------");
                 Console.WriteLine("Nome ..........: " + pj.nome);
                 Console.WriteLine("Endereço ......: " + pj.endereco);
-                Console.WriteLine("CNPJ ...........: " + pj.cnpj);
+                Console.WriteLine("CNPJ ..........: " + pj.cnpj);
                 Console.WriteLine("IE ............: " + pj.ie);
                 Console.WriteLine("Valor de Compra: " + pj.valor.ToString("C"));
                 Console.WriteLine("Imposto .......: " + pj.valor_imposto.ToString("C"));
