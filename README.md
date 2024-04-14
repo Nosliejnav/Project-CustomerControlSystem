@@ -1,4 +1,4 @@
-# Projeto SistemaControleClientes
+# Projeto SistemaControleClientes (Pessoa Física ou Jurídica) 
 Repositório criado com o objetivo de compartilhar conteúdo sobre orientação a 
 objetos.
 ## :rocket: Descrição
